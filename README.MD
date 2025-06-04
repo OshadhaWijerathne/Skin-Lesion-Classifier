@@ -69,11 +69,11 @@ The model was trained for 40 epochs. The training history plots shows the progre
 
 **Accuracy Plot:**
 
-![Model Accuracy](plots\VGG16\VGG16_Model_Accuracy_plot.png)
+![Model Accuracy](plots/VGG16/VGG16_Model_Accuracy_plot.png)
 
 **Loss Plot:**
 
-![Model Loss](plots\VGG16\VGG16_Model_loss_plot.png)
+![Model Loss](plots/VGG16/VGG16_Model_loss_plot.png)
 
 ---
 
