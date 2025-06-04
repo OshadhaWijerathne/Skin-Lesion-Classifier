@@ -50,3 +50,20 @@ This project aims to develop a robust deep learning model(CNN) capable of accura
 
 ---
 
+### Training Results
+
+The model was trained for 40 epochs. The training history plots shows the progression of accuracy and loss on both the training and validation datasets.
+
+**Accuracy Plot:**
+
+![Model Accuracy](plots\VGG16\VGG16_Model_Accuracy_plot.png)
+
+**Loss Plot:**
+
+![Model Loss](plots\VGG16\VGG16_Model_loss_plot.png)
+
+---
+
+## Model Saving
+
+The trained model is saved in the Keras format: `VGG16_skin_lesion_model.keras`.
